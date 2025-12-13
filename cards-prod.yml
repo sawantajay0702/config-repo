@@ -2,7 +2,7 @@ build:
   version: 2.0.0-prod
 
 cards:
-  message: "Welcome to EazyBank accounts related prod-1 APIs "
+  message: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
       name: "Ajay S - product owner"
       email: "{cipher}346cab9e4f74644d3367529ce4a3bf44122cc09009a109b9f1572a190400ab1b9ea54936c4939c5935f5497e1f4a3282"
